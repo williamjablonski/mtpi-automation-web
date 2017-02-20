@@ -1,4 +1,4 @@
-# MTPI/Santander automation framework  #
+# MTPI/Santander WEB automation framework  #
 
 This is a small framework that uses Cucumber and Page Object to execute test on Selenium Webdriver for MTPI/Santander Solutions.
 
